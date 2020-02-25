@@ -26,6 +26,8 @@ var i = 1
 //so that the loop doesn't go on forever, we create the statement that when "i" is less than or equal to ten, it will print i+1
 while i <= 10
 {
+//we are printing "i"
     print(i)
+//we set i as i+1
     i = i+1
 }
